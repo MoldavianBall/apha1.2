@@ -1007,3 +1007,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2025.01.03-20.57.56:591][323]LogSavePackage: Moving 'C:/Users/culca/Documents/GitHub/apha1.2/Apha1/Saved/MapF86604E74FE4F3B9ED7219B718FC0E50.tmp' to 'C:/Users/culca/Documents/GitHub/apha1.2/Apha1/Content/Map.umap'
 [2025.01.03-20.57.56:638][323]AssetCheck: New page: Asset Save: Map
 [2025.01.03-20.57.56:638][323]LogContentValidation: Display: Validating World /Game/Map.Map
+[2025.01.03-20.58.34:191][ 35]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2025.01.03-20.58.41:752][458]LogEditorViewport: Clicking on Actor (LMB): BP_DumpedActor_C (BP_DumpedActor2)
